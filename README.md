@@ -97,7 +97,6 @@ A synthetic dataset was created to demonstrate missing value handling techniques
 Missing-Value-Handling
 │
 ├── handling_missing_values.ipynb
-├── handling_missing_values.py
 ├── README.md
 ├── requirements.txt
 └── images
