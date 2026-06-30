@@ -64,12 +64,12 @@ A synthetic dataset was created to demonstrate missing value handling techniques
 
 ### Missing Value Heatmap
 
-![Heatmap]<img width="552" height="518" alt="Missing_values_heatmap" src="https://github.com/user-attachments/assets/4f9cb5de-eb46-4f1e-89fe-808a495bf5e7" />
+<img width="552" height="518" alt="Missing_values_heatmap" src="https://github.com/user-attachments/assets/4f9cb5de-eb46-4f1e-89fe-808a495bf5e7" />
 
 
 ### Missing Values Count
 
-![Count]<img width="552" height="502" alt="Missing_values_per_feature" src="https://github.com/user-attachments/assets/bbabc652-cc14-4f9f-8464-52125a8ea8fa" />
+<img width="552" height="502" alt="Missing_values_per_feature" src="https://github.com/user-attachments/assets/bbabc652-cc14-4f9f-8464-52125a8ea8fa" />
 
 
 ---
