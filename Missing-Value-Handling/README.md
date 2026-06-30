@@ -64,11 +64,12 @@ A synthetic dataset was created to demonstrate missing value handling techniques
 
 ### Missing Value Heatmap
 
-![Heatmap](images/missing_heatmap.png)
+<img width="552" height="518" alt="Missing_values_heatmap" src="https://github.com/user-attachments/assets/867ab70e-d83d-4e4b-bc59-85d45d63ac37" />
+
 
 ### Missing Values Count
 
-![Count](images/missing_count.png)
+<img width="552" height="502" alt="Missing_values_per_feature" src="https://github.com/user-attachments/assets/dbc25c6a-2e54-467f-8435-e754bbb11f56" />
 
 ---
 
@@ -95,17 +96,9 @@ A synthetic dataset was created to demonstrate missing value handling techniques
 Missing-Value-Handling
 │
 ├── handling_missing_values.ipynb
-├── handling_missing_values.py
 ├── README.md
 ├── requirements.txt
 └── images
 ```
 
 ---
-
-## Author
-
-**Shaik Abeed**
-
-GitHub:
-https://github.com/shaik-abeed
